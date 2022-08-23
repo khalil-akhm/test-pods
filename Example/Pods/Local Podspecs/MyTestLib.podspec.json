@@ -1,0 +1,22 @@
+{
+  "name": "MyTestLib",
+  "version": "0.1.0",
+  "summary": "A short description of MyTestLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/khalil-akhm/MyTestLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "khalil-akhm": "hall95@list.ru"
+  },
+  "source": {
+    "git": "https://github.com/khalil-akhm/MyTestLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MyTestLib/Classes/**/*"
+}
