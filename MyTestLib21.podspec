@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name             = 'MyTestLib'
+  s.name             = 'MyTestLib21'
   s.version          = '0.1.0'
-  s.summary          = 'MyTestLib'
+  s.summary          = 'MyTestLib21'
 
 
   s.description      = 'This is just a lib for test '
