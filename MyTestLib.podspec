@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary          = 'MyTestLib'
 
 
-  s.description      = 'This is just a lib for test'
+  s.description      = 'This is just a lib for test '
 
   s.homepage         = 'https://github.com/khalil-akhm/test-pods'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
